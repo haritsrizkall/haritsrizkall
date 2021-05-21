@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haritsrizkall)](https://github.com/haritsrizkall)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haritsrizkall&layout=compact)](https://github.com/haritsrizkall)
 <!--
 **haritsrizkall/haritsrizkall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
